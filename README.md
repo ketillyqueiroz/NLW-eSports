@@ -18,5 +18,5 @@ Mentoria: Mayk Brito.
 
 ## Contato 📲
 
-Instagram: @ketily.keyce
+Instagram: @ketilly.keyce
 Gmail: ketillyunicsul@gmail.com
