@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 ![preview](./.github/preview2.png)
 
-> ⛓ Trilha Explorer ⛓
+> ⛓ Trilha Explorer 
 
 Projeto feito no evento Next Level Week, disponibilizado pela Rocketseat 🚀
 Mentoria: Mayk Brito.
